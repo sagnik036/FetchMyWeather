@@ -6,6 +6,7 @@ import { Typography } from "@mui/material";
 import ContentTable from "./contentTable";
 import SearchBar from "./searchbar";
 
+
 export default function FixedContainer(props) {
   return (
     <React.Fragment>
